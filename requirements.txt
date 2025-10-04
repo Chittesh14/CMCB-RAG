@@ -6,4 +6,8 @@ python-dotenv==1.1.0
 langchain-pinecone==0.2.8
 langchain-openai==0.3.24
 langchain-community==0.3.26
+blobfile==3.1.0
+protobuf==6.32.1
+accelerate==1.10.1
+langchain_google_genai==2.1.12
 -e .
